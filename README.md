@@ -11,6 +11,9 @@
 
 ## Діаграма
 
+#### діаграма
+![image](img.png)
+
 #### знімок діаграми (з phpMyAdmin)
 ![image](schemaScreen.png)
 
