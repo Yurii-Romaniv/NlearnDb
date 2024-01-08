@@ -1,3 +1,4 @@
+# Repository of my course project in PNU
 ## Романів Юрій ІПЗ-23
 
 ### Тема
